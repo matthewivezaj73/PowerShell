@@ -1,0 +1,1 @@
+#Grabbing the alias of things poitning to Get-ChildItem.
